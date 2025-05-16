@@ -1,4 +1,3 @@
-
 S = list(input())
 n = len(S)
 temp = S[0:1]
